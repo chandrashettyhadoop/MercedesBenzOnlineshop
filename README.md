@@ -1,9 +1,9 @@
 # MercedesBenzOnlineshop
 
-Pre-requisites
-Java 8
-Maven
-Eclipse
+Pre-requisites:
+Java 8,
+Maven,
+Eclipse.
 
 Implementation details:
 
